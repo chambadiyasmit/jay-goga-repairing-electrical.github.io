@@ -1,0 +1,24 @@
+.wire_pho{
+    width: 100%;
+    border: 5px solid burlywood;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.wire{
+    border: 2px solid black;
+}
+.manbox_1{
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    gap: 20px;
+}
+.buy_now{
+    background-color: rgb(7, 7, 202);
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    
+}
+.img_second{
+    width: 30%;
+}
+

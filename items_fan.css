@@ -1,0 +1,19 @@
+.fan_men{
+    width: 100%;
+    border: 5px solid burlywood;
+}
+.fan{
+    border: 2px solid black;
+}
+.contaenot_1{
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    gap: 20px;
+}
+.buy_now{
+    background-color: rgb(7, 7, 202);
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    
+}
+

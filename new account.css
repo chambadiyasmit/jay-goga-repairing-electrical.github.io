@@ -1,0 +1,27 @@
+.usere_login{
+    color: rgb(35, 35, 68)(0, 0, 255, 0.123);
+    font-size: 25px;
+    text-align: center;
+
+}
+.border{
+    border: 2px solid black;
+    padding: 2%;
+    margin: 2% 30% 10% 30% ;
+    background-color: rgb(135, 186, 212);
+
+    
+}
+.login_img{
+    border-radius: 50%;
+    height: 20%;
+}
+.border_men{
+border: solid black 2px;
+background-color: rgb(153, 229, 248);
+}
+.go_home:hover{
+    color: white;
+    background-color: black;
+    
+}
